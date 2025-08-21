@@ -1,7 +1,6 @@
 # Network-tester---PICO-W5500
 
-![IMG_20250422_185319 (1)](https://github.com/user-attachments/assets/ff276e82-6716-42fb-9dac-8f78a809fd73)
-
+![IMG_20250820_205455](https://github.com/user-attachments/assets/07d66ca6-d657-42e2-989e-28de3c028574)![IMG_20250820_205447](https://github.com/user-attachments/assets/21e52d9d-a7a7-4a3a-8611-e5df872cf1be)![IMG_20250820_205419](https://github.com/user-attachments/assets/d6e54994-6ba5-4bcc-931b-2ba00212dbcd)
 
 Small battery powered network tester using WIZnet W5500-EVB-Pico2 and 1.3" OLED Display HAT
 
