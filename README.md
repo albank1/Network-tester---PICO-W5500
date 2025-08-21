@@ -1,6 +1,6 @@
 # Network-tester---PICO-W5500
 
-![IMG_20250820_205455](https://github.com/user-attachments/assets/07d66ca6-d657-42e2-989e-28de3c028574)![IMG_20250820_205447](https://github.com/user-attachments/assets/21e52d9d-a7a7-4a3a-8611-e5df872cf1be)![IMG_20250820_205419](https://github.com/user-attachments/assets/d6e54994-6ba5-4bcc-931b-2ba00212dbcd)
+![IMG_20250820_205447](https://github.com/user-attachments/assets/1194126f-6e9e-4c92-bfbc-a89046003d3c)
 
 Small battery powered network tester using WIZnet W5500-EVB-Pico2 and 1.3" OLED Display HAT
 
@@ -18,3 +18,6 @@ Parts required:
 The LIPO is connected to the TP4056 and the output connected via the switch to the VSYS and the ground connected directly.
 
 I have had to cut the pin on the 1.3 OLED HAT as one of the buttons connects to pin 17 on the PICO but this is also used for the W5500. This was instead soldered to pin 15.
+
+![IMG_20250820_205455](https://github.com/user-attachments/assets/23f2a5e2-0bf1-45fb-a832-12b36cd81b06)![IMG_20250820_205419](https://github.com/user-attachments/assets/6fd15c67-4166-4950-b9cc-fa57a211fece)
+
