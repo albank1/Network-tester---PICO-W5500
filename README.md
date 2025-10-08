@@ -21,4 +21,8 @@ I have had to cut the pin on the 1.3 OLED HAT as one of the buttons connects to 
 
 ![IMG_20250820_205455](https://github.com/user-attachments/assets/23f2a5e2-0bf1-45fb-a832-12b36cd81b06)![IMG_20250820_205419](https://github.com/user-attachments/assets/6fd15c67-4166-4950-b9cc-fa57a211fece)
 ![IMG_20251003_184639](https://github.com/user-attachments/assets/e12dd2ba-9773-4276-81cf-56d2358fc9fe)
+![IMG_20250915_135053](https://github.com/user-attachments/assets/c1e38354-5f31-4999-aeb5-962214a4c4e0)
+![IMG_20250915_135034](https://github.com/user-attachments/assets/d8f6e047-d309-4f4d-aea0-382c8e500115)
+![IMG_20250915_135047](https://github.com/user-attachments/assets/4f01784c-9471-4eff-b037-cb7e608b0541)
+
 
