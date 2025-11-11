@@ -13,8 +13,7 @@ Parts required:
 2) 1.3" OLED Display HAT for Raspberry Pi Pico (64×128) (eg 1.3 oLED Waveshare from PI Hut)
 3) 3.7V 260mAh 601730 or 300mAh Lipo battery
 4) TP4056 Lithium Battery Charging Board - Type C
-5) A switch to turn off/on
-
+5) A switch to turn off/on (Rocker Switch Control Micro 14mm Diameter)
 The LIPO is connected to the TP4056 and the output connected via the switch to the VSYS and the ground connected directly.
 
 I have had to cut the pin on the 1.3 OLED HAT as one of the buttons connects to pin 17 on the PICO but this is also used for the W5500. This was instead soldered to pin 15.
